@@ -32,3 +32,7 @@ ans:while making a commit we can accidentlly modify our code thus producing trou
 Q.Now that you have your workspace set up, what do you want to try using Git for?
 
 ans:I would like to start using git for my projects i.e how I can use git for my projects.
+
+
+here I have answered the various practice questions which were asked to me.I am loving this course and the instructors are very
+qualified and they have the ability to make anyone understand any concept

@@ -6,3 +6,10 @@ pull requests from there.
 Q.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 ans:Because we don't want to pull every change that is made on the remote repository.We only want to pull changes that have considerable effect on our project
+
+
+Q.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+ans:clone means cloning a remote repository onto our local computer.Fork means to clone a github repository onto our github repository and branches are just
+series of commits that one would like to experiment or try.Clone is used if we have to copy a repository from github onto our local computer,fork can be similarly used
+from github to github and branches will be used to try out something different and commit it without affecting the rest of the code

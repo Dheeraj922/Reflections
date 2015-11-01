@@ -21,3 +21,8 @@ Q.How do the diagrams help you visualize the branch structure?
 
 ans:diagrams are very helpful in understanding the branch structure because we can find out where that branch originated from and also the various commits that
 were made in that branch.
+
+Q.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ans:it is used to merge the commits by both branches into single commits.This way we can add changes made by one of the branches to the master branch
+and then we can delete the branch as its commits are available now.

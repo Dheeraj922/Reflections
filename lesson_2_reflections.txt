@@ -26,3 +26,8 @@ Q.What is the result of merging two branches together? Why do we represent it in
 
 ans:it is used to merge the commits by both branches into single commits.This way we can add changes made by one of the branches to the master branch
 and then we can delete the branch as its commits are available now.
+
+Q.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ans:Git’s automatic merge can result in merge conflicts,but the merge operation is quite convinient for us as it is done automatically.
+Manual merge can prevent conflicts,but it will be quite tedious to do so.
